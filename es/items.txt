@@ -90,33 +90,33 @@ fairy_stone:Piedra Hada
 fairy_stoneDescription:Una piedra que hace evolucionar a ciertas especies de Pokémon. Se dice que el color de la piedra determina el Pokémon que evolucionará.
 shimmering_stone:Piedra Brillante
 shimmering_stoneDescription:Una piedra que hace evolucionar a ciertas especies de Pokémon.
-quick_ball:Veloz Ball
+quick_ball:Quick Ball
 quick_ballDescription:Una Poké Ball algo diferente que tiene una tasa de captura más exitosa si se usa al inicio de un encuentro salvaje.
-snowball:Bola de Nieve
+snowball:Snow Ball
 snowballDescription:Una bola de nieve. ¡Se derretirá si no la usas hasta febrero! Lánzala a otros jugadores con !pokesnowball <player-name>
-dive_ball:Buceo Ball
+dive_ball:Dive Ball
 dive_ballDescription:Una Ball que es más efectiva al intentar atrapar Pokémon 🐟tipo Agua🐟.
-cipher_ball:Cifrado Ball
+cipher_ball:Cipher Ball
 cipher_ballDescription:Una Poké Ball algo diferente que es más efectiva al intentar atrapar Pokémon de tipo Veneno o Psíquico.
 golden_ticket:Boleto Dorado
 golden_ticketDescription:¿Para qué podría usarse? ¡Escribe !poketicket para averiguarlo!
-magnet_ball:Bola Imán
+magnet_ball:Magnet Ball
 magnet_ballDescription:Una Poké Bola algo diferente que es más efectiva al intentar atrapar Pokémon de tipo Acero o Eléctrico.
-nest_ball:Bola Nido
+nest_ball:Nest Ball
 nest_ballDescription:Una Poké Bola algo diferente que es más efectiva cuando se usa en un Pokémon de primera evolución que puede evolucionar dos veces más.
-fast_ball:Bola Rápida
+fast_ball:Fast Ball
 fast_ballDescription:Una Poké Bola rara que es especialmente útil en Pokémon con una estadística de velocidad base de 100 o más.
-level_ball:Bola Nivel
+level_ball:Level Ball
 level_ballDescription:Una bola especial que garantiza que un Pokémon tenga un nivel lo suficientemente alto para evolucionar inmediatamente.
-heal_ball:Bola Cura
+heal_ball:Heal Ball
 heal_ballDescription:Una Poké Bola rara que es especialmente útil en Pokémon con una estadística de PS base de 100 o más.
 stone_grab_bag:Bolsa de Piedras
 stone_grab_bagDescription:Una bolsa maravillosa que contiene 3 Piedras Evolutivas aleatorias.
-luxury_ball:Bola Lujo
+luxury_ball:Luxury Ball
 luxury_ballDescription:Una bola rara con una apariencia elegante. Aumenta masivamente el precio de venta de un Pokémon atrapado con ella.
-clone_ball:Bola Clon
+clone_ball:Clone Ball
 clone_ballDescription:Una Bola experimental que genera un segundo Pokémon a partir del que originalmente atrapas con esta bola.
-ultra_cherish_ball:Bola Ultra Afecto
+ultra_cherish_ball:Ultra Cherish Ball
 ultra_cherish_ballDescription:Una Bola Afecto modificada con una mejor tasa de captura. Tiene una mayor probabilidad de atrapar un Pokémon variocolor.
 premier_ball:Premier Ball
 premier_ballDescription:Una Poké Ball algo rara que fue creada como un artículo conmemorativo para celebrar un evento de algún tipo. Se lanzará automáticamente si no tienes una Poké Ball.
@@ -140,15 +140,15 @@ ultra_ball:Ultra Ball
 ultra_ballDescription:Una Poké Ball de ultra alto rendimiento que proporciona una tasa de éxito mayor para atrapar Pokémon que una Great Ball.
 rare_candy:Caramelo Raro
 rare_candyDescription:Sube el nivel del Pokémon seleccionado en cinco.
-cherish_ball:Globo Amor
+cherish_ball:Cherish Ball
 cherish_ballDescription:Una Poké Ball bastante rara que se ha elaborado para conmemorar una ocasión especial de alguna índole. Mayor probabilidad de obtener un Pokémon brillante.
-alpha_ball:Globo Alfa
+alpha_ball:Alfa Ball
 alpha_ballDescription:nix
 mysterious_crystal:Cristal Misterioso
 mysterious_crystalDescription:Un Cristal brillante. El origen y el uso son desconocidos. 👀 Dueños de brillantes 👀
-great_cherish_ball:Super Globo Amor
-great_cherish_ballDescription:Una Globo Amor modificada con una mejor tasa de captura. Tiene una mayor probabilidad de atrapar un Pokémon brillante.
-stone_ball:Globo Piedra
+great_cherish_ball:Great Cherish Ball
+great_cherish_ballDescription:Una Cherish ball modificada con una mejor tasa de captura. Tiene una mayor probabilidad de atrapar un Pokémon brillante.
+stone_ball:Stone Ball
 stone_ballDescription:Un globo raro con mayor probabilidad de dejar caer una piedra de evolución.
 event_bundle:Paquete de Evento
 event_bundleDescription:Un paquete exclusivo de evento que contiene 1x Legendario de Evento Pasado Aleatorio, 2x Boleto Dorado y 2x Regalo Raro
